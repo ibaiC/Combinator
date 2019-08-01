@@ -1,0 +1,2 @@
+py .\combinator.py
+pause
